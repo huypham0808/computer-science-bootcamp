@@ -1,0 +1,14 @@
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\bin\Debug\netcoreapp3.1\THCTDLLab1.exe
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\bin\Debug\netcoreapp3.1\THCTDLLab1.deps.json
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\bin\Debug\netcoreapp3.1\THCTDLLab1.runtimeconfig.json
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\bin\Debug\netcoreapp3.1\THCTDLLab1.runtimeconfig.dev.json
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\bin\Debug\netcoreapp3.1\THCTDLLab1.dll
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\bin\Debug\netcoreapp3.1\THCTDLLab1.pdb
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.csproj.AssemblyReference.cache
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.AssemblyInfoInputs.cache
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.AssemblyInfo.cs
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.csproj.CoreCompileInputs.cache
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.dll
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.pdb
+D:\4.PERSONAL\computer-science-bootcamp\THCTDLLab1\THCTDLLab1\obj\Debug\netcoreapp3.1\THCTDLLab1.genruntimeconfig.cache

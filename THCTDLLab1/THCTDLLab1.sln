@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THCTDLLab1", "THCTDLLab1\THCTDLLab1.csproj", "{94552468-3B48-4426-A2A7-EF4DD2FDDA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94552468-3B48-4426-A2A7-EF4DD2FDDA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94552468-3B48-4426-A2A7-EF4DD2FDDA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94552468-3B48-4426-A2A7-EF4DD2FDDA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94552468-3B48-4426-A2A7-EF4DD2FDDA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4EC4B3-7403-4013-81CC-32D657F2FAD3}
+	EndGlobalSection
+EndGlobal
