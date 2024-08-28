@@ -19,7 +19,7 @@ namespace THCTDLLab1
         public string HoTen { get => hoTen; set => hoTen = value; }
         public string ChuyenNganh { get => chuyenNganh; set => chuyenNganh = value; }
         public int NamSinh { get => namSinh; set => namSinh = value; }
-        public float DiemTB { get => diemTB; set => diemTB = value; }
+        public float DiemTB { get => diemTB; set => diemTB = (value >= 0 && value <= 10 ? value: 0); }
         public string Loai { get => loai; }
 
         //Method
